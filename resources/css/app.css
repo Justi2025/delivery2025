@@ -1,0 +1,155 @@
+
+:root {
+    --contrast: #222;
+    --contrast-2: #575760;
+    --contrast-3: #b2b2be;
+    --base: #f0f0f0;
+    --base-2: #f7f8f9;
+    --base-3: #ffffff;
+    --accent: #1e73be;
+    --global-color-8: #054ada;
+    --global-color-9: #f80;
+
+    --bs-warning: #3755fa !important;
+
+    --ae-primary: #3755fa;
+    --ae-primary-subtle: #637bfc;
+}
+
+.gb-container {
+    text-align: center;
+    background-color: #f0f2f5;
+    background-image: linear-gradient(90deg, var(--global-color-8), var(--global-color-8));
+}
+
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-size: 0.9rem !important;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding-right: 0 !important;
+}
+
+#app {
+    height: 100%;
+    max-width: 2500px;
+    margin: 0 auto;
+}
+
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.min-h-200px {
+    min-height: 200px;
+}
+
+img {
+    max-width: 100% !important;
+}
+
+a {
+    font-size: 0.85rem !important;
+}
+
+
+
+a:not(.btn) {
+    color: var(--ae-primary) !important;
+}
+
+[data-bs-theme="dark"] a:link,
+[data-bs-theme="dark"] a:visited {
+    color: #fff !important;
+}
+
+
+.required::after {
+    content: '*';
+    color: var(--bs-danger);
+    padding-left: 2px;
+}
+
+.size08 {
+    font-size: .8rem
+}
+
+.form-check-input:checked {
+    background-color: var(--bs-warning);
+    border-color: var(--bs-warning);
+}
+
+
+.form-control:focus, .form-select:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: var(--bs-warning);
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #fddc0d40;
+}
+
+input:focus {
+    border-color: var(--bs-warning) !important;
+    outline: 0 !important;
+    box-shadow: 0 0 0 0.25rem #fddc0d40 !important;
+}
+
+/* button */
+
+.btn-warning {
+    --bs-btn-color: #ffffff;
+    --bs-btn-bg: #3755fa;
+    --bs-btn-border-color: #3755fa;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #ffca2c;
+    --bs-btn-hover-border-color: #ffc720;
+    --bs-btn-focus-shadow-rgb: 217, 164, 6;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #ffcd39;
+    --bs-btn-active-border-color: #ffc720;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #000;
+    --bs-btn-disabled-bg: #ffc107;
+    --bs-btn-disabled-border-color: #ffc107;
+}
+
+.btn-outline-warning {
+    box-shadow: rgb(96, 118, 251);
+    --bs-btn-color: var(--ae-primary);
+    /*--bs-btn-bg: ;*/
+    --bs-btn-border-color: var(--ae-primary);
+    --bs-btn-hover-color: #ffffff;
+    --bs-btn-hover-bg: var(--ae-primary-subtle);
+    --bs-btn-hover-border-color: var(--ae-primary-subtle);
+    --bs-btn-focus-shadow-rgb: 96, 118, 251;
+    --bs-btn-active-color: #ffffff;
+    --bs-btn-active-bg: var(--ae-primary-subtle);
+    --bs-btn-active-border-color: #ffc720;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(96, 118, 251, 0.125);
+    --bs-btn-disabled-color: #000;
+    --bs-btn-disabled-bg: #ffc107;
+    --bs-btn-disabled-border-color: #ffc107;
+}
+
+[data-bs-theme="dark"] .btn-outline-warning {
+    --bs-btn-color: #fff;
+}
+
+
+a.btn-outline-warning:hover {
+    color: var(--bs-btn-hover-color) !important;
+}
+
+.form-select-xsm {
+    padding-top: 0.15rem;
+    padding-bottom: 0.15rem;
+    padding-left: 0.5rem;
+    font-size: 0.875rem;
+    border-radius: var(--bs-border-radius-sm);
+}
+

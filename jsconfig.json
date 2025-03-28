@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@OpenForms": [
+                "./resources/js/OpenForms"
+            ]
+        }
+    }
+}
