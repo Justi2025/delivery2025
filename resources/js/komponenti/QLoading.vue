@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <template v-if="status">
         <h3 class="h3">Загрузка данных...</h3>

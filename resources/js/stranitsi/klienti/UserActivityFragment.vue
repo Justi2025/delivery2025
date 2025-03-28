@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <q-table :cols="cols" :rows="rows">
         <template #item="{item}">

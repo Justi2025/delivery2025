@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template xmlns="http://www.w3.org/1999/html">
   <div>
     <zagolovok-stranitc caption="Новый заказ">

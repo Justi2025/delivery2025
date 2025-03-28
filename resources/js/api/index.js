@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import AuthenticationService from "./AuthService.js";
 import FailServis from "./FailServis.js";
 import ServisPolzovatelei from "./ServisPolzovatelei.js";

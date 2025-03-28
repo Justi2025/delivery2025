@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 export default class OptsiiSdelok {
 
     // query string params

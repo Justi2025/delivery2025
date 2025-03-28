@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <div class="sidebar col-md-3 col-lg-2 p-0 ae-bg">
 

@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <modal-dialog :id="targetId" ref="booksListDialog" title="Выберите файл">
 

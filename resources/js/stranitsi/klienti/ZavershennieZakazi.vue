@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <script>
 import OrdersTable from "../sdelki/komponenti/TablitsaZakazov.vue";
 import {servicePolzovatelei} from "../../api/index.js";

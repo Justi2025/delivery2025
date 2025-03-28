@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 // import isMobile from "../utils/isMobile.js";
 
 const settingsBuilder = () => {

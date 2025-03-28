@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import optsciiSortirovkiSdelok from "../stranitsi/sdelki/obschie/optsciiSortirovkiSdelok.js";
 import OptsiiSdelok from "../api/sdelki/OptsiiSdelok.js";
 

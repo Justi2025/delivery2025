@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <nav v-show="pagination !== null" aria-label="Table posts pagination">
         <ul class="pagination justify-content-end">

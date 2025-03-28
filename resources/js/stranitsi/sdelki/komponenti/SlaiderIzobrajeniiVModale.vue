@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <script>
 import Slider from "../../../komponenti/Slider.vue";
 

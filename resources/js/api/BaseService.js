@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import axiosClient from "../utils/axiosClient.js";
 import {objiect_pustoi} from "../utils/objiect_pustoi.js";
 import {postroitStrokuZaprosa} from "../utils/postroitStrokuZaprosa.js";

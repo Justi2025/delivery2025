@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <obertka-adminki :has-content="hasContent" :is-loading="isLoading">
 

@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import {createStore} from "vuex";
 import VuexPersistence from "vuex-persist";
 import authStore from "./authStore.js";

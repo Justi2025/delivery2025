@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <div class="d-inline-block">
     <label :class="['btn btn-sm', this.class]" :for="id">

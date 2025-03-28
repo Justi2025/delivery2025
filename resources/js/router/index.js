@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import {createRouter, createWebHistory} from "vue-router";
 import store from "../store";
 import {Roli} from "../utils/enums/Roli.js";

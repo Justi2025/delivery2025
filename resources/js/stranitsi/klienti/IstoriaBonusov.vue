@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <script>
 import {servicePolzovatelei} from "../../api/index.js";
 import QTableExtended from "../../komponenti/QTableExtended.vue";

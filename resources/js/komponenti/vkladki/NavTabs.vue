@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <nav>
         <div :id="id" class="nav nav-tabs" role="tablist">

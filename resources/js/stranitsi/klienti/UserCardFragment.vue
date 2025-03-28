@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <div class="card h-100 shadow shadow-sm">
         <img :alt="username" :src="profile_image" class="card-img-top max-w-30%">

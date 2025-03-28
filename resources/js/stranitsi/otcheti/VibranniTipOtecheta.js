@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 const VibranniTipOtecheta = Object.freeze({
     ByDay: 'by_day',
     ByDayAndPickupPoints: 'by_day_and_dps',

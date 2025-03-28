@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <button :id="id" :aria-controls="ariaControls" :aria-selected="disabled" :data-bs-target="dataTarget" :disabled="disabled"
             class="nav-link" data-bs-toggle="tab" role="tab" type="button">

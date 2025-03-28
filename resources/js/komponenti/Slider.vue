@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <div class="slider" v-touch:swipe.left="prevSlide" v-touch:swipe.right="nextSlide">
     <div class="slider-container" :style="{ transform: `translateX(-${currentIndex * 100}%)` }">

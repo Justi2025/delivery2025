@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <div class="ps-md-2">
     <div id="passportImageViewModal" class="modal fade" tabindex="-1">

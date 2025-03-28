@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 import {OrderStatus} from "../../../utils/zakazi/statusi_zakaza.js";
 
 export const soobscheniaStatusovSdelok = {

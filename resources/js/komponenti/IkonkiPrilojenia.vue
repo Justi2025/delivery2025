@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <svg class="d-none" xmlns="http://www.w3.org/2000/svg">
     <symbol id="calendar3" viewBox="0 0 16 16">

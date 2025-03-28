@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <script>
 import debounce from "../../../utils/debounce.js";
 import {servicePolzovatelei} from "../../../api/index.js";

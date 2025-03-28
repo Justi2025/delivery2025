@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import {authService} from "../api/index.js";
 import FormStep from "../utils/formStep.js";
 

@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
   <div :id="id" :aria-labelledby="labelledById" aria-hidden="true" class="modal fade" data-bs-backdrop="static"
        tabindex="-1">

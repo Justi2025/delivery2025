@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 import BaseService from "./BaseService.js";
 
 export default class AuthenticationService extends BaseService {

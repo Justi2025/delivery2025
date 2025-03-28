@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <script>
 import Multiselect from "../../../komponenti/Multiselect.vue";
 import OrderSearcherX from "./PoiskovikZakaza.vue";

@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+ 
 const optsciiSortirovkiSdelok = [
 
     { sort_order: 'customer=asc', value: 'ФИО Клиента (от А до Я)' },

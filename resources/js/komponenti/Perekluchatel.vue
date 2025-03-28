@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <template>
     <div class="form-check form-switch">
         <input :id="id" :checked="checked" class="form-check-input" role="switch" type="checkbox" @input="onToggle">

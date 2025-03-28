@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2024. Khutaba Kiazim. All rights reserved.
- */
+
 <script>
 import Switcher from "../../komponenti/Perekluchatel.vue";
 import {ref_value} from "../../utils/index.js";
